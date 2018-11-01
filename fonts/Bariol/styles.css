@@ -1,0 +1,11 @@
+
+@font-face {
+  font-family: 'Bariol';
+  src: url('Bariol.eot?#iefix') format('embedded-opentype'), 
+	 url('Bariol.otf')  format('opentype'),
+    url('Bariol.woff') format('woff'),
+	url('Bariol.ttf')  format('truetype'), 
+	url('Bariol.svg#Bariol') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
